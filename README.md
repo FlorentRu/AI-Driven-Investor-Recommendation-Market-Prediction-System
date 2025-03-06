@@ -66,8 +66,6 @@ The project simulates a fintech application by:
 - **Full-Stack Deployment:**  
   Develop a web application using frameworks like Flask or Streamlit to deploy the solution for interactive analysis and real-time recommendations.
 
-- **Advanced Recommendation Algorithms:**  
-  Incorporate more sophisticated machine learning models and risk assessment techniques to refine and personalize investment recommendations further.
 
 
 
