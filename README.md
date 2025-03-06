@@ -1,8 +1,5 @@
 # AI Driven Investor Recommendation Market Prediction-System
 
-
-# AI-Driven Investor Recommendation & Market Prediction System
-
 This project demonstrates an end-to-end AI system for investor recommendations and market predictions using synthetic data. It integrates traditional predictive analytics with advanced natural language processing using a Large Language Model. The project is designed and implemented in Python.
 
 ## Table of Contents
