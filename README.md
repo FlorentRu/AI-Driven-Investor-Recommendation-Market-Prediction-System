@@ -2,6 +2,8 @@
 
 ***(PLEASE READ):*** The Notebook no longer renders on GitHub, it seems to be a transient issue that does resolve itself over time.
 
+***Here is the project link:***  https://colab.research.google.com/drive/156FkajkjLyA2JQzg8wZlOpATvHOxARKl?usp=sharing
+
 This project demonstrates an end-to-end AI system for investor recommendations and market predictions using synthetic data. It integrates traditional predictive analytics with advanced natural language processing using a Large Language Model. The project is designed and implemented in Python.
 
 ## Table of Contents
